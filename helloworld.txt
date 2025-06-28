@@ -1,2 +1,2 @@
 hello world
-this is pulling the info from the github
+this is pulling the info from the GitHub
